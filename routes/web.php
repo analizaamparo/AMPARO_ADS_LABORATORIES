@@ -13,6 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('math/multiply', 'welcome');
+Route::view('math/product', 'welcome');
 
 
